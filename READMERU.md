@@ -86,9 +86,9 @@ object-detection-camera/
 └── API.md                  # Документация API
 ```
 
-## Запуск
-1. **Проверьте настройки**:
-   - Verify `config/config.py` contains:
+## Запуск и настройка
+1. **Проверьте конфигурацию**:
+   - Убедитесь ,что `config/config.py` содержит:
      ```python
      SERVER_PORT = 5000
      BOT_SERVER_URL = "http://127.0.0.1:5001"
