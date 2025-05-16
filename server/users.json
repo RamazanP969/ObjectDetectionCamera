@@ -1,0 +1,62 @@
+{
+    "users": {
+        "21": {
+            "password": "6f4b6612125fb3a0daecd2799dfd6c9c299424fd920f9b308110a2c1fbd8f443",
+            "auth_codes": {},
+            "cameras": {
+                "cam1": "http://195.196.36.242/mjpg/video.mjpg"
+            },
+            "detection_settings": {
+                "0": {
+                    "detect": false,
+                    "notify": false
+                },
+                "2": {
+                    "detect": true,
+                    "notify": true
+                },
+                "16": {
+                    "detect": false,
+                    "notify": false
+                },
+                "15": {
+                    "detect": false,
+                    "notify": false
+                },
+                "1": {
+                    "detect": false,
+                    "notify": false
+                },
+                "3": {
+                    "detect": false,
+                    "notify": false
+                },
+                "14": {
+                    "detect": false,
+                    "notify": false
+                },
+                "24": {
+                    "detect": false,
+                    "notify": false
+                },
+                "25": {
+                    "detect": false,
+                    "notify": false
+                },
+                "26": {
+                    "detect": false,
+                    "notify": false
+                }
+            },
+            "role": "user"
+        }
+    },
+    "captured_images": {
+        "21": {
+            "cam1": {
+                "static/captures/21/cam1/2025-05-16_22-04-05.jpg": "2025-05-16_22-04-05",
+                "static/captures/21/cam1/2025-05-16_22-04-11.jpg": "2025-05-16_22-04-11"
+            }
+        }
+    }
+}
