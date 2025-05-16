@@ -154,4 +154,4 @@ Contributions are welcome! Please:
 I will be glad to support and work together 💖:
 - Email: yokai1076@gmail.com
 - Telegram: @gfyly
-- GitHub Issues: [github.com/your-username/object-detection-camera/issues](https://github.com/your-username/object-detection-camera/issues)
+- GitHub Issues: [https://github.com/RamazanP969/ObjectDetectionCamera](https://github.com/RamazanP969/ObjectDetectionCamera)
