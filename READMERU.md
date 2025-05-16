@@ -99,13 +99,13 @@ object-detection-camera/
    ```bash
    python server.py
    ```
-   The server will start at `http://127.0.0.1:5000`.
+   Сервер запуститься на `http://127.0.0.1:5000`.
 
 3. **Запустите Telegram-бота**:
    ```bash
    python telegram_bot.py
    ```
-   The bot will start and connect to Telegram.
+  
 
 4. **Запустите клиент**:
    ```bash
