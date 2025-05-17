@@ -11,7 +11,7 @@ from flask import Flask, request
 import requests
 import threading
 import asyncio
-from config import SERVER_URL, BOT_TOKEN, FLASK_PORT
+from config.config import SERVER_URL, BOT_TOKEN, FLASK_PORT
 
 # Настройка логирования для отладки и мониторинга
 logging.basicConfig(
